@@ -11,3 +11,5 @@ I've been coding since I have memory. It was hard without one.
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
 ![Doc](./assets/doc.gif)
+
+![Git](./assets/snake.svg)
